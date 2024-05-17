@@ -1,4 +1,4 @@
-page 50102 "Object List"
+page 50012 "Object List"
 {
     PageType = List; // Specifies the page type as a list page, displaying multiple records in a tabular format.
     ApplicationArea = All; // Indicates that the page is accessible in all application areas.

@@ -1,8 +1,8 @@
 {
   "id": "cc29adca-d8eb-4c4d-a917-0240f8e03858",
   "name": "ObjectListingTablePage",
-  "publisher": "Nicolas Lopez",
-  "version": "1.0.0.0",
+  "publisher": "Lopez Nicolas",
+  "version": "1.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -16,8 +16,8 @@
   "application": "24.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 50011,
+      "to": 50013
     }
   ],
   "resourceExposurePolicy": {
